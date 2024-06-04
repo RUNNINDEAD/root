@@ -1,5 +1,5 @@
 # root
-This is an amazing bash scripting tool for Linux users the features it comes with are.... 
+This is an amazing bash scripting tool for Linux users
 
 - Updating packages
 - Upgrading packages
